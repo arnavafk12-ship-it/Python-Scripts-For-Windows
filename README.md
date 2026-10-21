@@ -146,4 +146,4 @@ Contributions, bug reports, and feature suggestions are welcome.
 
 ---
 
-**Built with Python for Windows productivity.**
+**Built with Python for Windows productivity. 🖥️**
