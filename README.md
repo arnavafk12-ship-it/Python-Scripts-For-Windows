@@ -1,4 +1,4 @@
-# Python Scripts for Windows
+# 🐍 Python Scripts for Windows
 
 A collection of Python utilities designed to simplify everyday Windows tasks, including file management, application launching, system monitoring, and process inspection.
 
@@ -143,10 +143,6 @@ Contributions, bug reports, and feature suggestions are welcome.
 2. Create a feature branch.
 3. Make and test your changes.
 4. Submit a pull request describing your improvements.
-
-## License
-
-No license has been specified yet. Add a license file to clarify permissions for using, modifying, and redistributing this project.
 
 ---
 
